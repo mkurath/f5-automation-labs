@@ -27,13 +27,13 @@
                     ],
                     "members": [
                       {
-                            "servicePort": 8001,
+                            "servicePort": 80,
                             "serverAddresses": [
                               "10.2.1.127"
                             ]
                         },
                         {
-                            "servicePort": 8002,
+                            "servicePort": 80,
                             "serverAddresses": [
                                 "10.2.1.182"
                             ]
